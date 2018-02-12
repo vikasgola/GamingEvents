@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "28078412003",
+    "firebase_url": "https://iitjammu-gaming-events.firebaseio.com",
+    "project_id": "iitjammu-gaming-events",
+    "storage_bucket": "iitjammu-gaming-events.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28078412003:android:9ed2b9477fc83f89",
+        "android_client_info": {
+          "package_name": "io.github.vikasgola.gamingevent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28078412003-nv411f2e0ep0jl6fmkf3ecvk8umna7fs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.vikasgola.gamingevent",
+            "certificate_hash": "97ee4b773b0637ff6235911ac1995f2a3593fbf8"
+          }
+        },
+        {
+          "client_id": "28078412003-2nl3vaskbm638p2nmqtip9c0e57ajlgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkZlMLamDf0T7YDJtsYUUAn-sr59B_NgI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28078412003-2nl3vaskbm638p2nmqtip9c0e57ajlgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
