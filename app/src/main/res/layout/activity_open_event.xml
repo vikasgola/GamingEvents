@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/scrollView"
+    android:fitsSystemWindows="true"
+    android:fillViewport="true"
+    android:overScrollMode="never"
+    tools:context="io.github.vikasgola.gamingevent.OpenEventActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_height="wrap_content">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_margin="0dp"
+            app:contentInsetStart="0dp"
+            app:contentInsetLeft="0dp"
+            app:contentInsetRight="0dp"
+            app:contentInsetEnd="0dp"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/image"
+                android:layout_width="match_parent"
+                android:layout_height="300dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/mdwf4">
+
+            </ImageView>
+        </android.support.v7.widget.Toolbar>
+
+        <TextView
+            android:background="@color/colorPrimaryDark"
+            android:padding="14dp"
+            android:id="@+id/schedule"
+            android:textColor="@color/colorAccent"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:drawableEnd="@drawable/arrow_down"
+            android:text="Schedules"
+            android:layout_height="wrap_content" />
+
+        <io.github.vikasgola.gamingevent.NonScroll
+            android:id="@+id/listView"
+            tools:listitem="@layout/schedule_item"
+            android:layout_width="match_parent"
+            android:layout_marginBottom="1dp"
+            android:layout_height="wrap_content">
+        </io.github.vikasgola.gamingevent.NonScroll>
+
+        <TextView
+            android:background="@color/colorPrimaryDark"
+            android:padding="14dp"
+            android:id="@+id/teams"
+            android:textColor="@color/colorAccent"
+            android:textStyle="bold"
+            android:layout_width="match_parent"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:drawableEnd="@drawable/arrow_down"
+            android:text="Participating Teams"
+            android:layout_height="wrap_content" />
+
+        <io.github.vikasgola.gamingevent.NonScroll
+            android:id="@+id/recyleView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:listitem="@layout/team">
+        </io.github.vikasgola.gamingevent.NonScroll>
+    </LinearLayout>
+</ScrollView>
