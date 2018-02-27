@@ -25,7 +25,8 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value=".MainActivity" />
         </activity>
-        <activity android:name=".TeamDetails"></activity>
+        <activity android:name=".TeamDetails" />
+        <activity android:name=".ScheduleDetails"></activity>
     </application>
 
 </manifest>

@@ -1,0 +1,716 @@
+{
+  "finished": {
+    "clashroyale": {
+      "image": "https://firebasestorage.googleapis.com/v0/b/iitjammu-gaming-events.appspot.com/o/images%2Fclashroyale.jpg?alt=media&token=e688c0d4-d796-4abb-bebe-cbc11fdc001b",
+      "schedules": [null, {
+        "team1": "Update Soon",
+        "team2": "Update Soon"
+      }],
+      "status": "Upcoming",
+      "teams": [null, {
+        "leader": "TUSHAR GUPTA",
+        "teamName": "Teker"
+      }, {
+        "leader": "Rajat khanna",
+        "teamName": "AR - 69"
+      }, {
+        "leader": "Pratik_Parmar",
+        "teamName": "MegaKnights"
+      }, {
+        "leader": "Mantavya Goyal",
+        "teamName": "Mercy_Crush"
+      }, {
+        "leader": "Naveen_Kumar",
+        "teamName": "Denver"
+      }, {
+        "leader": "Naveen Kumar",
+        "teamName": "Naveenk"
+      }, {
+        "leader": "Atul Rai",
+        "teamName": "{Parenthesis}"
+      }, {
+        "leader": "Kamal kant",
+        "teamName": "Avengers "
+      }, {
+        "leader": "Sahil Singh",
+        "teamName": "Gal_ni_kadni"
+      }, {
+        "leader": "Shivang Vijay",
+        "teamName": "Rick And Morty"
+      }, {
+        "leader": "Shreyash Arvind Gore",
+        "teamName": "Kanpuriya Wizardz"
+      }, {
+        "leader": "Yash_Katiyar",
+        "teamName": "Sooryavansham"
+      }, {
+        "leader": "Naveen_Kumar",
+        "teamName": "Fogg"
+      }, {
+        "leader": "Aayush_Gupta",
+        "teamName": "X"
+      }, {
+        "leader": "Vivasvan_Patel",
+        "teamName": "XVIV"
+      }, {
+        "leader": "Sahil_Jindal",
+        "teamName": "Incredibles"
+      }, {
+        "leader": "Aman_Pawar",
+        "teamName": "DeathStroke"
+      }, {
+        "leader": "Aman_Pawar",
+        "teamName": "Darth Waders"
+      }],
+      "time": "27/02/2018",
+      "title": "Clash Royale",
+      "totalTeams": 18
+    },
+    "mini": {
+      "image": "https://firebasestorage.googleapis.com/v0/b/iitjammu-gaming-events.appspot.com/o/images%2Fmini.jpg?alt=media&token=8effbd6b-44ed-4c78-ae57-7dae004f9ea8",
+      "schedules": [null, {
+        "team1": "Update Soon",
+        "team2": "Update Soon"
+      }],
+      "status": "Upcoming",
+      "teams": [null, {
+        "leader": "Rajat khanna",
+        "numMember": 4,
+        "teamName": "Insurgents"
+      }, {
+        "leader": "Vishwas Modanwal",
+        "numMember": 4,
+        "teamName": "Maafia"
+      }, {
+        "leader": "Kulvendra Singh",
+        "numMember": 4,
+        "teamName": "Lannisters"
+      }, {
+        "leader": "Himanshu Kejriwal",
+        "numMember": 4,
+        "teamName": "BOSS"
+      }, {
+        "leader": "Atul",
+        "teamName": "Teleporters"
+      }, {
+        "leader": "Yogesh_kumar",
+        "teamName": "The incredibles"
+      }],
+      "time": "27/02/2018",
+      "title": "Mini Militia",
+      "totalTeams": 6
+    },
+    "cs": {
+      "image": "https://firebasestorage.googleapis.com/v0/b/iitjammu-gaming-events.appspot.com/o/images%2Fcss.jpg?alt=media&token=f6ed6a63-df29-49be-ace4-54a5a88597ab",
+      "schedules": [null, {
+        "schedule": "Knockout 1 - 9:00 AM",
+        "team1": "Nagar_Palika",
+        "team2": "Lannisters"
+      }, {
+        "schedule": "Knockout 2 - 9:09 AM",
+        "team1": "Thunder",
+        "team2": "Maafias"
+      }, {
+        "schedule": "Knockout 3 - 9:18 AM",
+        "team1": "BOSS",
+        "team2": "Sham Tak Khelenge"
+      }, {
+        "schedule": "Knockout 4 - 9:27 AM",
+        "team1": "Nagar_Palika",
+        "team2": "Knockout2(W)"
+      }, {
+        "schedule": "Knockout 5 - 9:45 AM",
+        "team1": "Dementors",
+        "team2": "Thunthungo"
+      }, {
+        "schedule": "Knockout 6 - 9:36 AM",
+        "team1": "NOTOR!OUS",
+        "team2": "PAPA_LOG"
+      }, {
+        "schedule": "Semi Final 1 - 9:55 AM",
+        "team1": "Knockout6(W)",
+        "team2": "Knockout4(W)"
+      }, {
+        "schedule": "Semi Final 2 - 10:13 AM",
+        "team1": "Knockout5(W)",
+        "team2": "Knockout3(W)"
+      }, {
+        "schedule": "Finals - 10:40 AM",
+        "team1": "SF1(W)",
+        "team2": "SF2(W)"
+      }],
+      "status": "Upcoming",
+      "teams": [null, {
+        "leader": "Brahmansh kaushik",
+        "numMember": 6,
+        "teamName": "Sham Tak Khelenge"
+      }, {
+        "leader": "Mayank Pratap",
+        "numMember": 6,
+        "teamName": "Maafias"
+      }, {
+        "leader": "Aayush Goyal",
+        "numMember": 6,
+        "teamName": "Nagar_Palika"
+      }, {
+        "leader": "Himanshu_Kejriwal",
+        "teamName": "BOSS"
+      }, {
+        "leader": "Shreyas_Arvind_Gore",
+        "teamName": "NOTOR!OUS"
+      }, {
+        "leader": "Shivam Jhangra",
+        "teamName": "Dementors"
+      }, {
+        "leader": "Tushar Gupta",
+        "teamName": "Thunder"
+      }, {
+        "leader": "Ayush Singh Pal",
+        "teamName": "Lannisters"
+      }, {
+        "leader": "Aayush_Gupta",
+        "teamName": "PAPA_LOG"
+      }, {
+        "leader": "Thai",
+        "teamName": "Thunthungo"
+      }],
+      "time": "27/02/2018",
+      "title": "Counter Strike Source",
+      "totalTeams": 10
+    },
+    "mdwf4": {
+      "image": "https://firebasestorage.googleapis.com/v0/b/iitjammu-gaming-events.appspot.com/o/images%2Fcod4.jpg?alt=media&token=6056b9cd-f818-45a0-867f-077469da249f",
+      "schedules": [null, {
+        "schedule": "Knockout 1 - 11:30 AM",
+        "team1": "Andi Mandi Shandi",
+        "team2": "Lannisters"
+      }, {
+        "schedule": "Knockout 2 - 11:45 AM",
+        "team1": "Maafia's",
+        "team2": "Experienced Loser"
+      }, {
+        "schedule": "Knockout 3 - 12:00 PM",
+        "team1": "Renegades",
+        "team2": "Genesis"
+      }, {
+        "schedule": "Semi Final 1 - 12:15 PM",
+        "team1": "Knockout3(W)",
+        "team2": "Squad_6"
+      }, {
+        "schedule": "Semi Final 2 - 12:30 PM",
+        "team1": "Knockout2(W)",
+        "team2": "Knockout1(W)"
+      }, {
+        "schedule": "Finals - 12:45 PM",
+        "team1": "SF1(W)",
+        "team2": "SF2(W)"
+      }],
+      "status": "Upcoming",
+      "teams": [null, {
+        "leader": "Atul ",
+        "teamName": "Genesis"
+      }, {
+        "leader": "Akhilesh Sharma",
+        "teamName": "Renegades"
+      }, {
+        "leader": "Vishwas_Modanwal",
+        "teamName": "Maafia's"
+      }, {
+        "leader": "Ayush Singh Pal",
+        "teamName": "Lannisters"
+      }, {
+        "leader": "Sahil Singh",
+        "teamName": "Experienced Loser"
+      }, {
+        "leader": "Aayush Gupta",
+        "teamName": "Squad_6"
+      }],
+      "time": "27/02/2018",
+      "title": "Call of Duty 4\nModern Warfare",
+      "totalTeams": 7
+    },
+    "fifa18": {
+      "image": "https://firebasestorage.googleapis.com/v0/b/iitjammu-gaming-events.appspot.com/o/images%2Ffifa18.jpg?alt=media&token=e05f9cdf-1484-413b-83d7-7abd158b7278",
+      "schedules": [null, {
+        "schedule": "Knockout 1",
+        "team1": "KingJames",
+        "team2": "Dark Knight"
+      }, {
+        "schedule": "Knockout 2",
+        "team1": "Mantavya Goyal",
+        "team2": "Arpit Sachan"
+      }, {
+        "schedule": "Knockout 3",
+        "team1": "jOKeR",
+        "team2": "Barca"
+      }, {
+        "schedule": "Knockout 4",
+        "team1": "Terminator",
+        "team2": "Chako"
+      }, {
+        "schedule": "Knockout 5",
+        "team1": "Nandeesh virdi",
+        "team2": "*LordsFC"
+      }, {
+        "schedule": "Quarter Final 1",
+        "team1": "Saturn",
+        "team2": "Knockout1(W)"
+      }, {
+        "schedule": "Quarter Final 2",
+        "team1": "AD",
+        "team2": "Knockout2(W)"
+      }, {
+        "schedule": "Quarter Final 3",
+        "team1": "rjt11",
+        "team2": "Knockout3(W)"
+      }, {
+        "schedule": "Quarter Final 4",
+        "team1": "Knockout5(W)",
+        "team2": "Knockout4(W)"
+      }, {
+        "schedule": "Semi Final 1",
+        "team1": "QF1(W)",
+        "team2": "QF2(W)"
+      }, {
+        "schedule": "Semi Final 2",
+        "team1": "QF3(W)",
+        "team2": "QF4(W)"
+      }, {
+        "schedule": "Finals",
+        "team1": "SF1(W)",
+        "team2": "SF2(W)"
+      }],
+      "status": "Upcoming",
+      "teams": [null, {
+        "leader": "Ayush Singh Pal",
+        "logo": "here is logo",
+        "numMember": 1,
+        "teamName": "KingJames"
+      }, {
+        "leader": "Nandeesh Virdi",
+        "logo": "here is logo",
+        "numMember": 1,
+        "teamName": "Nandeesh Virdi"
+      }, {
+        "leader": "Arpit Sachan",
+        "numMember": 1,
+        "teamName": "Arpit Sachan"
+      }, {
+        "leader": "Brahmansh Kaushik",
+        "numMember": 1,
+        "teamName": "Mafia Mastiff"
+      }, {
+        "leader": "Yash Katiyar",
+        "numMember": 1,
+        "teamName": "Barca"
+      }, {
+        "leader": "Parth Thakker",
+        "teamName": "jOKeR"
+      }, {
+        "leader": "Ashish_Dagar",
+        "teamName": "AD"
+      }, {
+        "leader": "Rahul Nirania",
+        "teamName": "Rahul Nirania"
+      }, {
+        "leader": "Sahil Jindal",
+        "teamName": "Dark Knight"
+      }, {
+        "leader": "Akshit Kansra",
+        "teamName": "Terminator"
+      }, {
+        "leader": "Chinmay Kurade",
+        "teamName": "*LordsFC"
+      }, {
+        "leader": "Rajat Dular",
+        "teamName": "rjt11"
+      }, {
+        "leader": "Vaibhav Vashisht",
+        "teamName": "Chako"
+      }, {
+        "leader": "Ashwani_KumarSingh",
+        "teamName": "Saturn"
+      }],
+      "time": "27/02/2018",
+      "title": "FIFA 18",
+      "totalTeams": 14
+    }
+  },
+  "scoredetails": {
+    "clashroyale": {
+      "Update Soon VS Update Soon": {
+        "Update Soon": {
+          "player 1": 0,
+          "player 2 ": 0
+        },
+        "comments": [null, "No Comments!"]
+      }
+    },
+    "cs": {
+      "BOSS VS Sham Tak Khelenge": {
+        "BOSS": {
+          "Akshit": 0,
+          "Deepanshu": 0,
+          "Himanshu Kejriwal": 0,
+          "Mantavya": 0,
+          "Rahul Yadav ": 0,
+          "Sahil Jindal": 0
+        },
+        "Sham Tak Khelenge": {
+          "Ajay Kushwaha ": 0,
+          "Brahmansh kaushik": 0,
+          "Jatin nandal": 0,
+          "Kabir juneja": 0,
+          "Rajat khanna": 0,
+          "Satyam mahajan": 0
+        },
+        "comments": [null, "Boss won.", "Boss' in Semi Final 1."]
+      },
+      "Dementors VS Thunthungo": {
+        "Dementors": {
+          "Abhijeet Agnihotri": 0,
+          "Gurpreet Sarngal": 0,
+          "Hardik Sharma": 0,
+          "Nikhil Kumar": 0,
+          "Raghu Nandan ": 0,
+          "Shivam Jhangra": 0
+        },
+        "Thunthungo": {
+          "Ayush Sharma": 0,
+          "Chetan Bhatt": 0,
+          "Himanshu Gupta": 0,
+          "Kuldeep Kumar": 0,
+          "Thaisnang Reang": 0,
+          "Vaibhav Jain": 0
+        },
+        "comments": [null, "Thunthungo won.", "SM1(W) = Thunthungo"]
+      },
+      "NOTOR!OUS VS PAPA_LOG": {
+        "NOTOR!OUS": {
+          "Abhishek Raj": 0,
+          "Arjun Singh Chaudhary": 0,
+          "Keshav Vyas": 0,
+          "Naveen Kumar": 0,
+          "Shreyas Arvind Gore": 0,
+          "Vatsalya Bajpai": 0
+        },
+        "PAPA_LOG": {
+          "Aayush Gupta": 0,
+          "Arpit Sachan": 0,
+          "Aviral Sharma": 0,
+          "Shreyansh Pandey": 0,
+          "Siddhant Arya ": 0,
+          "Vivasvan Patel": 0
+        },
+        "comments": [null, "No Comments!"]
+      },
+      "Nagar_Palika VS Knockout2(W)": {
+        "Nagar_Palika": {
+          "Aayush Goyal": 0,
+          "Akhilesh Sharma": 0,
+          "Parth Thakker": 0,
+          "Sagar Rathee": 0,
+          "Sourabh Singh": 0,
+          "Vijay": 0
+        },
+        "comments": [null, "Knockout2(W) = Maafias", "Nagar_Palika won."]
+      },
+      "Nagar_Palika VS Lannisters": {
+        "Lannisters": {
+          "Ayush Singh Pal": 0,
+          "Deepak Rai": 0,
+          "Kinshuk Sharma": 0,
+          "Kulvendra Singh": 0,
+          "Shubhendra": 0,
+          "Tushar": 0
+        },
+        "Nagar_Palika": {
+          "Aayush Goyal": 0,
+          "Akhilesh Sharma": 0,
+          "Parth Thakker": 0,
+          "Sagar Rathee": 0,
+          "Sourabh Singh": 0,
+          "Vijay": 0
+        },
+        "comments": [null, "No Comments!"]
+      },
+      "Knockout6(W) VS Knockout4(W)": {
+        "comments": [null, "Knockout6(W) = NOTOR!OUS", "Knockout4(W) = Nagar_Palika", "Nagar_Palika VS NOTOR!OUS", "Junior VS Junior", "Nagar_Palika won."]
+      },
+      "Knockout5(W) VS Knockout3(W)": {
+        "comments": [null, "Knockout5(W) = Thunthungo", "Knockout3(W) = BOSS", "BOSS VS Thunthungo", "Senior VS Senior", "Thunthungo won"]
+      },
+      "SF1(W) VS SF2(W)": {
+        "comments": [null, "==Finals==", "SF1(W) = Thunthungo", "SF2(W) = Nagar_Palika", "Nagar_Palika VS Thunthungo", "Nagar_Palika won"]
+      },
+      "Thunder VS Maafias": {
+        "Maafias": {
+          "Abhinav Chaudhary": 0,
+          "Aditya Naresh": 0,
+          "Akash Kumar": 0,
+          "M Praveen": 0,
+          "Mayank Pratap": 0,
+          "Vishwas Modanwal": 0
+        },
+        "Thunder": {
+          "Atul Rai": 0,
+          "Dwij upadhyay": 0,
+          "Pratik parmar": 0,
+          "Rahul meena": 0,
+          "Ronak jain": 0,
+          "Tushar Gupta": 0
+        },
+        "comments": [null, "Maafias won.", "Maafias wil be against Nagar_Palika."]
+      }
+    },
+    "fifa18": {
+      "AD VS Knockout2(W)": {
+        "AD": {
+          "Ashish Dagar": 0
+        },
+        "Knockout 1 winner": {
+          "winner": 3
+        },
+        "comments": [null, "Knockout1(W) = Arpit Sachan,  Arpit Sachan won"]
+      },
+      "KingJames VS Dark Knight": {
+        "Dark Knight": {
+          "Sahil Jindal": 1
+        },
+        "KingJames": {
+          "Ayush Singh Pal": 0
+        },
+        "comments": [null, "Sahil Jindal won"]
+      },
+      "Mantavya Goyal VS Arpit Sachan": {
+        "Arpit Sachan": {
+          "Arpit Sachan": 3
+        },
+        "Mantavya Goyal": {
+          "Mantavya Goyal": 0
+        },
+        "comments": [null, "Arpit Sachan won."]
+      },
+      "Nandeesh virdi VS *LordsFC": {
+        "*LordsFC": {
+          "Chinmay Kurade": 0
+        },
+        "Nandeesh virdi": {
+          "Nandeesh virdi": 2
+        },
+        "comments": [null, "Nandeesh virdi won"]
+      },
+      "Saturn VS Knockout1(W)": {
+        "Knockout 1 winner": {
+          "winner": 0
+        },
+        "Saturn": {
+          "Ashwani Kumar Singh ": 0
+        },
+        "comments": [null, "No Comments!"]
+      },
+      "Terminator VS Chako": {
+        "Chako": {
+          "Vaibhav Vashisht ": 0
+        },
+        "Terminator": {
+          "Akshit Kansra ": 0
+        },
+        "comments": [null, "Terminator won."]
+      },
+      "jOKeR VS Barca": {
+        "Barca": {
+          "Yash Katiyar": 0
+        },
+        "comments": [null, "Parth Thakker"],
+        "jOKeR": {
+          "Parth Thakker": 0
+        }
+      },
+      "rjt11 VS Knockout3(W)": {
+        "Knockout winner": {
+          "winner": 0
+        },
+        "comments": [null, "Knockout3(W) = Parth Thakker", "Parth Thakker won"],
+        "rjt11": {
+          "Rajat Dular": 0
+        }
+      },
+      "QF1(W) VS QF2(W)": {
+        "comments": [null, "Arpit Sachan VS Parth Thakker", "Arpit Sachan won."]
+      },
+      "QF3(W) VS QF4(W)": {
+        "comments": [null, "Akshit Kansra VS Sahil Jindal", "Sahil Jindal won."]
+      },
+      "SF1(W) VS SF2(W)": {
+        "comments": [null, "Arpit Sachan VS Sahil Jindal"]
+      }
+    },
+    "mdwf4": {
+      "Andi Mandi Shandi VS Lannisters": {
+        "Andi Mandi Shandi": {
+          "Akshit": 0,
+          "Deepanshu Gupta": 0,
+          "Himanshu Kejriwal": 0,
+          "Rahul Yadav": 0,
+          "Sahil Jindal": 0
+        },
+        "Lannisters": {
+          "Ayush Singh Pal": 0,
+          "Deepak Rai ": 0,
+          "Kinshuk Sharma": 0,
+          "Kulvendra Singh": 0,
+          "Shubhendra": 0,
+          "Tushar": 0
+        },
+        "comments": [null, "No Comments!"]
+      },
+      "Knockout3(W) VS Squad_6": {
+        "Squad_6": {
+          "Aayush Gupta": 0,
+          "Arpit Sachan": 0,
+          "Aviral Sharma": 0,
+          "Shreyansh Pandey": 0,
+          "Siddhant Arya": 0,
+          "Vivasvan Patel": 0
+        },
+        "comments": [null, "No Comments!"]
+      },
+      "Knockout2(W) VS Knockout1(W)": {
+        "comments": [null, "No Comments!"]
+      },
+      "Maafia's VS Experienced Loser": {
+        "Maafia's": {
+          "Mayank Pratap": 0,
+          "Naveen Kumar": 0,
+          "Parth Thakker": 0,
+          "Shivam Jangra": 0,
+          "Vatsalya Bajpai": 0,
+          "Vishwas Modanwal": 0
+        },
+        "Experienced Loser": {
+          "Abhishek Gupta": 0,
+          "Naveen choudhary or aakar": 0,
+          "Rahul meena": 0,
+          "Sahil Singh": 0,
+          "Sahil bansal": 0,
+          "Yogesh kumar": 0
+        },
+        "comments": [null, "No Comments!"]
+      },
+      "Renegades VS Genesis": {
+        "Renegades": {
+          "Aayush Goyal": 0,
+          "Abhishek Raj": 0,
+          "Akhilesh Sharma": 0,
+          "Sagar Rathee": 0,
+          "Shaikh Mamun": 0,
+          "Shivang Vijay": 0
+        },
+        "Genesis": {
+          "Abhishek Yadav": 0,
+          "Aman Pawar": 0,
+          "Atul": 0,
+          "Dwij": 0,
+          "Shivam Kumar": 0,
+          "Vaibhav Vashisht": 0
+        },
+        "comments": [null, "No Comments!"]
+      }
+    },
+    "mini": {
+      "Update Soon VS Update Soon": {
+        "Update Soon": {
+          "player 1": 0,
+          "player 2 ": 0
+        },
+        "comments": [null, "No Comments!"]
+      }
+    }
+  },
+  "teamdetails": {
+    "clashroyale": {
+      "AR - 69": [null, "Rajat Khanna"],
+      "Ak47": [null, "Akhilesh Sharma"],
+      "Avengers ": [null, "Kamal Kant"],
+      "Avvidude": [null, "Avinash Dubey"],
+      "Clashers": [null, "Rajat Khanna"],
+      "Dark Knight": [null, "Shail Jindal"],
+      "Darth Waders": [null, "Aman Pawar", "Shivam Kumar"],
+      "DeathStroke": [null, "Aman Pawar"],
+      "Denver": [null, "Naveen Kumar", "Hunarpreet Singh"],
+      "Fogg": [null, "Naveen Kumar", "Varun Kalra"],
+      "Gal_ni_kadni": [null, "Sahil Singh"],
+      "General VB": [null, "Vatsalya Bajpai"],
+      "Incredibles": [null, "Sahil Jindal", "Rishab Kumar"],
+      "Jasonx": [null, "Rahul Meena"],
+      "Kanpuriya Wizardz": [null, "Shreyash Arvind Gore", "Vatsalya Bajpai"],
+      "MIDAS": [null, "Hunarpreet Singh"],
+      "MegaKnights": [null, "Pratik Parmar", "Dwij Upadhyay"],
+      "Mercy_Crush": [null, "Mantavya Goyal", "Rahul Yadav"],
+      "Naveenk": [null, "Naveen Kumar"],
+      "Navneenk": [null, "Naveen Kumar"],
+      "Nemesis": [null, "Atul"],
+      "Pops": [null, "Shivang Vijay"],
+      "Punjabi warrior": [null, "Vaibhav Vashisht"],
+      "Rick And Morty": [null, "Shivang Vijay", "Akhilesh Sharma"],
+      "Royale": [null, "Yash Katiyar"],
+      "Shardnark": [null, "Shivam Kumar"],
+      "Shivam gaur": [null, "Shivam Gaur"],
+      "Sooryavansham": [null, "Yash Katiyar", "Nitin Raj"],
+      "Tejas": [null, "Shreyash Arvind Gore"],
+      "Teker": [null, "Tushar Gupta"],
+      "Terminator": [null, "Akshit Kansra"],
+      "X": [null, "Aayush Gupta"],
+      "XVIV": [null, "Vivasvan Patel", "Aayush Gupta"],
+      "cruise": [null, "Nitin Raj"],
+      "prtk": [null, "Pratik Parmar"],
+      "{Parenthesis}": [null, "Atul Rai", "Rahul Meena"]
+    },
+    "cs": {
+      "BOSS": ["Himanshu Kejriwal", "Sahil Jindal", "Rahul Yadav ", "Mantavya", "Deepanshu", "Akshit"],
+      "Dementors": ["Shivam Jhangra", "Nikhil Kumar", "Hardik Sharma", "Gurpreet Sarngal", "Raghu Nandan ", "Abhijeet Agnihotri"],
+      "Lannisters": ["Ayush Singh Pal", "Kulvendra Singh", "Kinshuk Sharma", "Deepak Rai", "Shubhendra", "Tushar"],
+      "Maafias": ["Mayank Pratap", "Vishwas Modanwal", "Aditya Naresh", "Akash Kumar", "Abhinav Chaudhary", "M Praveen"],
+      "NOTOR!OUS": ["Shreyas Arvind Gore", "Abhishek Raj", "Arjun Singh Chaudhary", "Keshav Vyas", "Vatsalya Bajpai", "Naveen Kumar"],
+      "Nagar_Palika": ["Aayush Goyal", "Sagar Rathee", "Akhilesh Sharma", "Sourabh Singh", "Vijay", "Parth Thakker"],
+      "PAPA_LOG": ["Aayush Gupta", "Vivasvan Patel", "Siddhant Arya ", "Aviral Sharma", "Shreyansh Pandey", "Arpit Sachan"],
+      "Sham Tak Khelenge": ["Brahmansh kaushik", "Ajay Kushwaha ", "Jatin nandal", "Kabir juneja", "Rajat khanna", "Satyam mahajan"],
+      "Thunder": ["Tushar Gupta", "Ronak jain", "Rahul meena", "Atul Rai", "Dwij upadhyay", "Pratik parmar"],
+      "Thunthungo": ["Thaisnang Reang", "Kuldeep Kumar", "Ayush Sharma", "Chetan Bhatt", "Vaibhav Jain", "Himanshu Gupta"]
+    },
+    "fifa18": {
+      "*LordsFC": ["Chinmay Kurade"],
+      "AD": ["Ashish Dagar"],
+      "Arpit Sachan": ["Arpit Sachan"],
+      "Barca": ["Yash Katiyar"],
+      "Chako": ["Vaibhav Vashisht "],
+      "Dark Knight": ["Sahil Jindal"],
+      "KingJames": ["Ayush Singh Pal"],
+      "Mafia Mastiff": ["Brahmansh Kaushik"],
+      "Nandeesh virdi": ["Nandeesh virdi"],
+      "Rahul Nirania": ["Rahul Nirania"],
+      "Saturn": ["Ashwani KumarSingh "],
+      "Terminator": ["Akshit Kansra "],
+      "jOKeR": ["Parth Thakker"],
+      "rjt11": ["Rajat Dular"]
+    },
+    "mdwf4": {
+      "Andi Mandi Shandi": ["Himanshu Kejriwal", "Sahil Jindal", "Rahul Yadav", "Deepanshu Gupta", "Akshit"],
+      "Experienced Loser": ["Sahil Singh", "Abhishek Gupta", "Yogesh kumar", "Naveen choudhary or aakar", "Rahul meena", "Sahil bansal"],
+      "Genesis": ["Atul", "Vaibhav _Vashisht", "Abhishek Yadav", "Shivam Kumar", "Aman Pawar", "Dwij"],
+      "Lannisters": ["Ayush Singh Pal", "Kulvendra Singh", "Deepak Rai ", "Kinshuk Sharma", "Shubhendra", "Tushar"],
+      "Maafia's": ["Vishwas Modanwal", "Parth Thakker", "Mayank Pratap", "Vatsalya Bajpai", "Naveen Kumar", "Shivam Jangra"],
+      "Renegades": ["Akhilesh Sharma", "Sagar Rathee", "Aayush Goyal", "Shivang Vijay", "Shaikh Mamun", "Abhishek Raj"],
+      "Squad_6": ["Aayush Gupta", "Aviral Sharma", "Vivasvan Patel", "Siddhant Arya", "Arpit Sachan", "Shreyansh Pandey"]
+    },
+    "mini": {
+      "BOSS": ["Himanshu Kejriwal", "Sahil Jindal", "Mantavya 2016EEJ0040", "Rahul Yadav "],
+      "Insurgents": ["Rajat khanna", "Sagar rathee", "Satyam mahajan", "Shreyas gore"],
+      "Lannisters": ["Kulvendra Singh", "Kinshuk Sharma", "Deepak Rai", "Ayush Singh Pal"],
+      "Maafia": ["Vishwas Modanwal ", "Mayank Pratap", "Parth Thakker", "Akash Kumar"],
+      "Teleporters": ["Atul", "Vaibhav Vashisht", "Prarthit  Mehra", "Abhishek Yadav"],
+      "The incredibles": ["Yogesh kumar", "Rahul Meena", "Shubham Angral", "Sahil singh"]
+    }
+  }
+}

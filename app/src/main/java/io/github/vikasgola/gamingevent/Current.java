@@ -131,24 +131,22 @@ public class Current extends Fragment {
     public void refresh(){
         swipeRefreshLayout.setRefreshing(true);
         firebaseRecyclerAdapter.notifyDataSetChanged();
+        if(App.haveNetworkConnection(getContext())){
+            noEvent.setText("No Events!");
+            if(firebaseRecyclerAdapter.getItemCount()==0){
+                noEvent.setVisibility(View.VISIBLE);
+            }else {
+                noEvent.setVisibility(View.GONE);
+            }
+        }else {
+            noEvent.setText("Check you Internet Connection..!");
+        }
         new Handler().postDelayed(new Runnable() {
             @Override
             public void run() {
                 swipeRefreshLayout.setRefreshing(false);
-                if(App.haveNetworkConnection(getContext())){
-                    noEvent.setText("No Events!");
-                    if(firebaseRecyclerAdapter.getItemCount()==0){
-                        noEvent.setVisibility(View.VISIBLE);
-                    }else {
-                        noEvent.setVisibility(View.GONE);
-                    }
-                }else {
-                    noEvent.setText("Check you Internet Connection..!");
-                }
-
-
             }
-        },500);
+        },2000);
     }
 
 
@@ -161,15 +159,7 @@ public class Current extends Fragment {
     @Override
     public void onResume() {
         super.onResume();
-        if(firebaseRecyclerAdapter.getItemCount()==0){
-            noEvent.setVisibility(View.VISIBLE);
-        }else {
-            noEvent.setVisibility(View.GONE);
-        }
-
-        if(!App.haveNetworkConnection(getContext())){
-            noEvent.setText("Check you Internet Connection..!");
-        }
+        refresh();
     }
 
     @Override

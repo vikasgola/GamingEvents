@@ -89,17 +89,19 @@ public class OpenEventActivity extends AppCompatActivity {
         firebaseListAdapter = new FirebaseListAdapter<Schedule>(firebaseListOptions){
             @Override
             protected void populateView(View v, final Schedule model, int position) {
-                ((TextView)v.findViewById(R.id.teamVS)).setText(model.getTeams());
+                ((TextView)v.findViewById(R.id.teamVS)).setText(model.getTeam1() + " VS " + model.getTeam2());
                 ((TextView)v.findViewById(R.id.sch)).setText(" ");
                 if(model.getSchedule()!=null)
                     ((TextView)v.findViewById(R.id.sch)).setText(model.getSchedule());
                     v.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
-//                        Intent intent1 = new Intent(getApplicationContext(),TeamDetails.class);
-//                        intent1.putExtra("modelId",modelId);
-//                        intent1.putExtra("teamName",model.getTeams());
-//                        startActivity(intent1);
+                        Intent intent2 = new Intent(getApplicationContext(),ScheduleDetails.class);
+                        intent2.putExtra("modelId",modelId);
+                        intent2.putExtra("team1",model.getTeam1());
+                        intent2.putExtra("team2",model.getTeam2());
+                        intent2.putExtra("teams",model.getTeam1() + " VS " + model.getTeam2());
+                        startActivity(intent2);
                     }
                 });
             }

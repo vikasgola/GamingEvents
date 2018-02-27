@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="io.github.vikasgola.gamingevent.ScheduleDetails">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <android.support.v7.widget.Toolbar
+            android:layout_width="match_parent"
+            android:background="@color/colorPrimaryDark"
+            android:id="@+id/toolbar"
+            app:title="Score Board"
+            app:navigationIcon="@drawable/back_icon"
+            app:titleTextColor="@color/colorAccent"
+            android:layout_height="wrap_content">
+        </android.support.v7.widget.Toolbar>
+
+        <TextView
+            android:id="@+id/commentHead"
+            android:padding="14dp"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:text="Status"
+            android:textStyle="bold"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:background="@color/blackBack"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <io.github.vikasgola.gamingevent.NonScroll
+            android:id="@+id/comments"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:listitem="@layout/comment">
+        </io.github.vikasgola.gamingevent.NonScroll>
+
+
+        <TextView
+            android:id="@+id/team1"
+            android:padding="14dp"
+            android:textColor="@color/colorAccent"
+            android:text="team1"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:background="@color/blackBack"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:padding="10dp"
+            android:layout_height="wrap_content">
+            <TextView
+                android:text="Name"
+                android:textStyle="bold"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textAlignment="viewStart"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"/>
+            <TextView
+                android:textStyle="bold"
+                android:text="Score "
+                android:textAlignment="viewEnd"
+                android:layout_width="0dp"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"/>
+        </LinearLayout>
+        <io.github.vikasgola.gamingevent.NonScroll
+            android:id="@+id/team1Lis"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:listitem="@layout/scores">
+        </io.github.vikasgola.gamingevent.NonScroll>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:padding="10dp"
+            android:layout_height="wrap_content">
+            <TextView
+                android:text="Total Score"
+                android:textStyle="bold"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textAlignment="viewStart"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"/>
+            <TextView
+                android:id="@+id/team1total"
+                android:textStyle="bold"
+                android:text="0"
+                android:textAlignment="viewEnd"
+                android:layout_width="0dp"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"/>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/team2"
+            android:padding="14dp"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:text="team2"
+            android:textStyle="bold"
+            android:textAppearance="?android:textAppearanceLarge"
+            android:background="@color/blackBack"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:padding="10dp"
+            android:layout_height="wrap_content">
+            <TextView
+                android:text="Name"
+                android:textStyle="bold"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textAlignment="viewStart"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"/>
+            <TextView
+                android:textStyle="bold"
+                android:text="Score "
+                android:textAlignment="viewEnd"
+                android:layout_width="0dp"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"/>
+        </LinearLayout>
+
+        <io.github.vikasgola.gamingevent.NonScroll
+            android:id="@+id/team2Lis"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:listitem="@layout/scores">
+        </io.github.vikasgola.gamingevent.NonScroll>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:padding="10dp"
+            android:layout_height="wrap_content">
+            <TextView
+                android:text="Total Score"
+                android:textStyle="bold"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:textAlignment="viewStart"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"/>
+            <TextView
+                android:id="@+id/team2total"
+                android:textStyle="bold"
+                android:text="0"
+                android:textAlignment="viewEnd"
+                android:layout_width="0dp"
+                android:textAppearance="?android:textAppearanceMedium"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"/>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
