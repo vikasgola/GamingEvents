@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GamingEvent.iml" filepath="$PROJECT_DIR$/GamingEvent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Infinito.iml" filepath="$PROJECT_DIR$/Infinito.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
